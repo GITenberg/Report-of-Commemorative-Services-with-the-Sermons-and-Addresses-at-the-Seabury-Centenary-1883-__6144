@@ -1,0 +1,26 @@
+_repo: Report-of-Commemorative-Services-with-the-Sermons-and-Addresses-at-the-Seabury-Centenary-1883-__6144
+creator:
+  author:
+    agent_name: Episcopal Church. Diocese of Connecticut
+    aliases:
+    - Episcopal Diocese of Connecticut
+    - Protestant Episcopal Church in the U.S.A. Connecticut (Diocese)
+    - Connecticut, Diocese Of
+    gutenberg_agent_id: '1972'
+    url: http://www.gutenberg.org/2009/agents/1972
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Seabury, Samuel, 1729-1796'
+title: Report of Commemorative Services with the Sermons and Addresses at the Seabury
+  Centenary, 1883-1885.
+url: http://www.gutenberg.org/ebooks/6144
