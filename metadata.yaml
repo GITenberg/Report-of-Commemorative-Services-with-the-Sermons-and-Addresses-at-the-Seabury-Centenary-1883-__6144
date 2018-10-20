@@ -1,5 +1,5 @@
 _repo: Report-of-Commemorative-Services-with-the-Sermons-and-Addresses-at-the-Seabury-Centenary-1883-__6144
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BX'
 - !lcsh 'Seabury, Samuel, 1729-1796'
+- GITenberg
 title: Report of Commemorative Services with the Sermons and Addresses at the Seabury
   Centenary, 1883-1885.
 url: http://www.gutenberg.org/ebooks/6144
